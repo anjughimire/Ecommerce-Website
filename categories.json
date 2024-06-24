@@ -1,0 +1,243 @@
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "categoryId": 55,
+      "categoryName": "Fruits & Vegetables",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "e78d"
+    },
+    {
+      "categoryId": 56,
+      "categoryName": "Foodgrains, Oil & Masala",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "22c6"
+    },
+    {
+      "categoryId": 57,
+      "categoryName": "Bakery, Cakes & Dairy",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "55da"
+    },
+    {
+      "categoryId": 58,
+      "categoryName": "Beverages",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "2b26"
+    },
+    {
+      "categoryId": 59,
+      "categoryName": "Snacks & Branded Foods",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "9596"
+    },
+    {
+      "categoryId": 61,
+      "categoryName": "Cuts & Sprouts",
+      "parentCategoryId": 55,
+      "userId": null,
+      "id": "d828"
+    },
+    {
+      "categoryId": 62,
+      "categoryName": "Dals & Pulses",
+      "parentCategoryId": 55,
+      "userId": null,
+      "id": "dc1b"
+    },
+    {
+      "categoryId": 63,
+      "categoryName": "Exotic Fruits & Veggies",
+      "parentCategoryId": 55,
+      "userId": null,
+      "id": "546d"
+    },
+    {
+      "categoryId": 64,
+      "categoryName": "Flower Bouquets, Bunches",
+      "parentCategoryId": 55,
+      "userId": null,
+      "id": "6fa7"
+    },
+    {
+      "categoryId": 65,
+      "categoryName": "Atta, Flours & Sooji",
+      "parentCategoryId": 56,
+      "userId": null,
+      "id": "3539"
+    },
+    {
+      "categoryId": 66,
+      "categoryName": "Dry Fruits",
+      "parentCategoryId": 56,
+      "userId": null,
+      "id": "862d"
+    },
+    {
+      "categoryId": 67,
+      "categoryName": "Edible Oils & Ghee",
+      "parentCategoryId": 56,
+      "userId": null,
+      "id": "b9dc"
+    },
+    {
+      "categoryId": 68,
+      "categoryName": "Bakery Snacks",
+      "parentCategoryId": 57,
+      "userId": null,
+      "id": "784d"
+    },
+    {
+      "categoryId": 69,
+      "categoryName": "Cakes & Pastries",
+      "parentCategoryId": 57,
+      "userId": null,
+      "id": "c4c0"
+    },
+    {
+      "categoryId": 75,
+      "categoryName": "Snacks",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "7be6"
+    },
+    {
+      "categoryId": 76,
+      "categoryName": "soft drinks",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "bbec"
+    },
+    {
+      "categoryId": 77,
+      "categoryName": "BBQ",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "6277"
+    },
+    {
+      "categoryId": 81,
+      "categoryName": "Cat E",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "07c6"
+    },
+    {
+      "categoryId": 82,
+      "categoryName": "string",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "2536"
+    },
+    {
+      "categoryId": 83,
+      "categoryName": "Fragrances",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "5bfa"
+    },
+    {
+      "categoryId": 84,
+      "categoryName": "Fragrances & Scents",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "765e"
+    },
+    {
+      "categoryId": 85,
+      "categoryName": "Scents",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "4447"
+    },
+    {
+      "categoryId": 86,
+      "categoryName": "FragrancesNew",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "ab16"
+    },
+    {
+      "categoryId": 87,
+      "categoryName": "ScentsNew",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "66c7"
+    },
+    {
+      "categoryId": 88,
+      "categoryName": "Oil & Masala",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "1bf6"
+    },
+    {
+      "categoryId": 89,
+      "categoryName": "T-shirts",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "5a39"
+    },
+    {
+      "categoryId": 90,
+      "categoryName": "eyob",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "8e73"
+    },
+    {
+      "categoryId": 91,
+      "categoryName": "ftayer",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "1c62"
+    },
+    {
+      "categoryId": 92,
+      "categoryName": "a",
+      "parentCategoryId": 1,
+      "userId": null,
+      "id": "5b2b"
+    },
+    {
+      "categoryId": 93,
+      "categoryName": "Home and kitchen",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "86d6"
+    },
+    {
+      "categoryId": 94,
+      "categoryName": "prt",
+      "parentCategoryId": 0,
+      "userId": null,
+      "id": "0d0f"
+    },
+    {
+      "categoryId": 95,
+      "categoryName": "Mobile",
+      "parentCategoryId": 0,
+      "userId": 123,
+      "id": "0215"
+    },
+    {
+      "id": "5ad9",
+      "ProductId": 0,
+      "ProductSku": "",
+      "ProductName": "",
+      "ProductPrice": 0,
+      "ProductShortName": "",
+      "ProductDescription": "",
+      "CreatedDate": "2024-06-23T16:37:57.916Z",
+      "DeliveryTimeSpan": "",
+      "CategoryId": 0,
+      "ProductImageUrl": ""
+    }
+  ]
+}
